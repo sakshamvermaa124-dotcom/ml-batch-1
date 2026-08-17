@@ -29,3 +29,46 @@ Preprocessing reduces errors, improves accuracy, and ensures that machine learni
 
 ### Status
 Research completed and environment requirements identified.
+## Week 3 – Task 1: Research & Setup for Unsupervised Learning
+
+### Objective
+Understand the fundamentals of unsupervised learning and prepare the environment required for this week's ML assignments.
+
+### Research Summary
+Unsupervised Learning is a type of machine learning where models learn patterns and structures from data without predefined labels or target outputs.
+
+Unlike supervised learning, the training data does not contain a known answer for each example. The algorithm attempts to discover meaningful relationships, groups, or representations within the data.
+
+### Common Techniques
+- Clustering
+- Dimensionality Reduction
+- Association Rule Learning
+- Anomaly Detection
+
+### Common Algorithms
+- K-Means Clustering
+- Hierarchical Clustering
+- DBSCAN
+- Principal Component Analysis (PCA)
+
+### Applications
+- Customer segmentation
+- Recommendation systems
+- Anomaly detection
+- Data visualization
+- Market basket analysis
+- Feature extraction
+
+### Tools Identified
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Jupyter Notebook
+
+### Environment Setup
+The existing Python ML environment and libraries identified in previous tasks are sufficient for the initial unsupervised learning assignments.
+
+### Status
+Research completed and environment requirements identified.
